@@ -1,0 +1,16 @@
+{
+  "name": "oenos-sandbox-1",
+  "version": "0.0.1",
+  "description": "Oenos Sandbox 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Caminha",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^4.16.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
